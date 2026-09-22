@@ -1,0 +1,27 @@
+City,Product_Category,CatSum,SUM(Quantity)
+Istanbul,Electronics,619907.9299999999,354.0
+Ankara,Electronics,306703.0000000001,198.0
+Istanbul,Home & Garden,261927.23999999993,355.0
+Izmir,Electronics,252927.11999999997,161.0
+Adana,Electronics,234434.4,113.0
+Istanbul,Sports,202157.74999999985,380.0
+Kayseri,Electronics,194896.34999999998,91.0
+Bursa,Electronics,187055.25000000003,116.0
+Gaziantep,Electronics,160398.60000000003,94.0
+Konya,Electronics,153114.7,89.0
+Antalya,Electronics,150048.13000000003,115.0
+Izmir,Home & Garden,113476.15999999999,170.0
+Ankara,Sports,112636.74,244.0
+Ankara,Home & Garden,108307.93,191.0
+Istanbul,Fashion,106812.42000000003,396.0
+Bursa,Home & Garden,99528.52000000003,146.0
+Izmir,Sports,88536.78999999998,196.0
+Adana,Sports,72894.54,140.0
+Konya,Home & Garden,71735.94999999998,98.0
+Antalya,Home & Garden,70243.13,107.0
+Eskisehir,Electronics,69321.33000000002,48.0
+Bursa,Sports,68113.8,124.0
+Konya,Sports,61664.51000000001,112.0
+Istanbul,Toys,56205.78999999999,364.0
+Adana,Home & Garden,55252.36000000002,90.0
+Ankara,Fashion,50752.679999999986,213.0
